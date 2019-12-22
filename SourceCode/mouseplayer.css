@@ -1,0 +1,14 @@
+.mp--box,.mp--box .mp--danmu,.mp--box video,.mp--box .mp--gro{
+	height: 100%;
+	width: 100%;
+	position: absolute;
+}
+.mp--box{
+	background: black;
+}
+.mp--box .mp--danmu{
+	z-index: 2;
+}
+.mp--box .mp--gro{
+	z-index: 3;
+}
